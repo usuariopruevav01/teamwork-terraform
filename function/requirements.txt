@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+# package>=version
+requests>=2.22.0
+pandas>=1.4.1
+google-auth>=2.6.2
+google-cloud-bigquery>=2.34.2
+google-cloud-bigquery-storage>=2.13.0
+pyarrow>=7.0.0
